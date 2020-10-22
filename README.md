@@ -1,3 +1,3 @@
 <p align="center">
-<img src="./github/prealoder.gif"/>
+<img src="./github/preloader.gif"/>
 </p>
